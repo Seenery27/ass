@@ -7,6 +7,10 @@ ul {
   list-style: none;
 }
 
-p {
+p,header {
   text-align: center;
+}
+
+footer {
+  font-size: 36px;
 }
